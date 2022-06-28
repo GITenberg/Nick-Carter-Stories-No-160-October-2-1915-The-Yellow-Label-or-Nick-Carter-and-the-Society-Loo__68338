@@ -1,5 +1,8 @@
 _repo: Nick-Carter-Stories-No-160-October-2-1915-The-Yellow-Label-or-Nick-Carter-and-the-Society-Loo__68338
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68338-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Nicholas (House name)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '54722'
     url: http://www.gutenberg.org/2009/agents/54722
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68338#Nick-Carter-Stories-No-160-October-2-1915-The-Yellow-Label-or-Nick-Carter-and-the-Society-Loo_
 gutenberg_issued: '2022-06-17'
 identifiers:
   gutenberg: '68338'
